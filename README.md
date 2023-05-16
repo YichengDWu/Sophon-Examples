@@ -1,4 +1,3 @@
-# Complex Beam Problems
+# Sophon Examples
 
-Reproducing results from https://arxiv.org/pdf/2303.01055.pdf.
- 
+This is Sophon example repository.
