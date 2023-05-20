@@ -1,3 +1,3 @@
 # Sophon Examples
 
-This is Sophon example repository.
+This is [Sophon](https://github.com/YichengDWu/Sophon.jl) example repository.
